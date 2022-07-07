@@ -1,0 +1,33 @@
+* {
+    background-color: #595547;
+}
+
+.header {
+    color: #9fc2f8;
+}
+
+p {
+    color: #eaf0f0;
+}
+
+.yellow {
+    color: #e2ee6b;
+}
+
+.list {
+    color: #eaf0f0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.red {
+    color: #d3504e;
+}
+span{
+    color: #eaf0f0;
+}
+img {
+    height: 300px;
+}
